@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hola,+soy+Eduardo+Lezama+%F0%9F%91%8B;Frontend+%26+Mobile+Developer;Transformando+ideas+en+c%C3%B3digo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hola,+soy+Eduardo+Lezama+%F0%9F%92%A4;Frontend+%26+Mobile+Developer;Transformando+ideas+en+c%C3%B3digo" alt="Typing SVG" />
   </a>
   <br><br>
 
@@ -14,7 +14,7 @@
 
   <a href="https://www.linkedin.com/in/eduardo-lezama-z%C3%A1rate-87a76a35b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Laloaobes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:elezama625@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br><br>
