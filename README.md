@@ -1,87 +1,107 @@
-<div align="center">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hola,+soy+Eduardo+Lezama+%F0%9F%92%A4;Frontend+%26+Mobile+Developer;Transformando+ideas+en+c%C3%B3digo" alt="Typing SVG" />
+<p align="center">
+  <img src="images/hero.svg" width="100%" alt="Eduardo Lezama Zarate — desarrollador de software" />
+</p>
+
+<p align="center">
+  <strong>Desarrollador de software</strong><br>
+  <sub>Web · Móvil · Sistemas de gestión · Integraciones</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-lezama-z%C3%A1rate-87a76a35b/">
+    <img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E8E8E8" alt="LinkedIn" />
   </a>
-  <br><br>
+  <a href="https://github.com/Laloaobes?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-2A2A2A?style=for-the-badge&amp;logo=github&amp;logoColor=E8E8E8" alt="Repositorios de GitHub" />
+  </a>
+</p>
 
-  <p>
-    <b>Desarrollador de software enfocado en la creación de aplicaciones web y móviles.</b><br>
-    <em>Gestiono proyectos de principio a fin: desde la arquitectura de interfaces y funcionalidades, hasta la integración de APIs, generación de builds y despliegue final.</em>
-  </p>
-  
-  <br>
+## Perfil
 
-  <a href="https://www.linkedin.com/in/eduardo-lezama-z%C3%A1rate-87a76a35b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Laloaobes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+Soy desarrollador de software. Construyo productos web y móviles, además de los sistemas que los sostienen: reservas, pagos, lealtad, pedidos, cotizaciones, puntos de venta e inventarios.
 
-<br><br>
+Trabajo en toda la cadena del producto: interfaz, lógica, integraciones, pruebas, build firmado y publicación en tienda. He desarrollado para una plataforma de equipaje en Malta, una estación de servicio, una distribuidora farmacéutica veterinaria y un comercio electrónico.
 
-## 🛠️ Tecnologías y Herramientas
+## Stack
 
-<br>
+El stack cambia según el producto. Estas son las piezas que más he usado para llevar un proyecto de la operación a la tienda.
 
-**💻 Frontend & Mobile**
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<sub>OPERACIÓN → INTERFAZ → DATOS → INTEGRACIONES → BUILD → TIENDA</sub>
 
-<br>
+**Interfaz** — `React` `TypeScript` `JavaScript` `Next.js` `Tailwind CSS` `HTML` `CSS`
 
-**⚙️ Backend & Bases de Datos**
-<br>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+**App móvil y publicación** — `React Native` `Capacitor` `Android Studio` `Google Play Console`
 
-<br>
+**Datos e integraciones** — `Firebase` `Firestore` `Stripe` `Google Maps` `Mercado Pago`
 
-**🔗 APIs, Integraciones & Herramientas**
-<br>
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Documentos y comercio** — `jsPDF` `html2canvas` `WordPress` `WooCommerce`
 
-<br><br>
+**Entrega** — `Git` `GitHub` `Vercel`
 
-## 🚀 Proyectos Destacados
+## Trabajo seleccionado
 
-<br>
+### 01 · Droply Malta
 
-### 🏆 Ecosistema Carreto
-> **Soluciones de lealtad y gamificación para estación de servicio.**
-* **Club Pilotos Carreto (App):** Sistema de usuarios, XP, niveles, recompensas y pases digitales (QR). *Gestión de Android App Bundles y publicación en Google Play.*
-* **Carreto Plus (Web):** Gestión del programa de lealtad, tienda de recompensas y paneles administrativos.
-* **Tech:** `React` `Capacitor` `TypeScript` `Firebase` `Android Studio`
+<sub>PLATAFORMA WEB · RESERVAS · PAGOS</sub>
 
-<br>
+**Qué es.** Plataforma para recoger, almacenar y entregar equipaje en Malta, con flujos separados para clientes, operadores y administración.
 
-### 🌎 Droply Malta
-> **Plataforma para la recogida, almacenamiento y entrega de equipaje.**
-* **Características:** Diferentes flujos para clientes, operadores y administración.
-* **Integraciones:** Pagos y Webhooks con **Stripe API**. Places y Autocomplete con **Google Maps API**.
-* **Tech:** `React` `TypeScript` `Firebase / Firestore`
+**Mi aportación.** Desarrollé interfaces y funcionalidades para esos tres perfiles. Trabajé en reservas, pagos con Stripe, webhooks y búsqueda de ubicaciones con Google Maps Places y Autocomplete.
 
-<br>
+`React` `TypeScript` `Firebase` `Firestore` `Stripe` `Google Maps`
 
-### 💊 Ecosistema Pets Pharma
-> **Gestión de productos y operaciones para el sector farmacéutico veterinario.**
-* **Sistema Web:** Gestión de roles, catálogo, clientes, distribuidores y reportes. (`React`, `Firebase`, `Tailwind CSS`)
-* **Cotizador Móvil:** Aplicación para la generación ágil de cotizaciones en campo. (`React Native`, `TypeScript`)
+<p align="center">
+  <img src="images/projects/droply-malta-home.png" alt="Captura de Droply Malta" width="560">
+</p>
 
-<br>
+### 02 · Club Pilotos Carreto
 
-### 💅 La Duquesa Nail Land
-> **E-commerce integral de productos de belleza.**
-* **Características:** Catálogo, filtros, wishlist, productos variables, pagos, multilenguaje y SEO avanzado.
-* **Tech:** `WordPress` `WooCommerce` `Elementor` `JavaScript` `CSS`
+<sub>APP MÓVIL · LEALTAD · ANDROID</sub>
+
+**Qué es.** Aplicación móvil de lealtad para clientes de una estación de servicio: XP, niveles, recompensas, promociones y pase digital.
+
+**Mi aportación.** Desarrollé las funciones de XP, niveles, recompensas, promociones y el pase con QR. Preparé y firmé el Android App Bundle y gestioné su publicación en Google Play Console.
+
+`React` `Capacitor` `Firebase` `Android Studio` `Google Play Console`
+
+<p align="center">
+  <img src="images/projects/club-pilotos-carreto-512.png" alt="Club Pilotos Carreto" width="112">
+</p>
+
+### 03 · Pets Pharma
+
+<sub>SISTEMA WEB · PEDIDOS · REPORTES</sub>
+
+**Qué es.** Sistema web de pedidos y administración para distribución farmacéutica veterinaria. Cubre catálogo, clientes, vendedores y distribuidores.
+
+**Mi aportación.** Desarrollé interfaces para pedidos, catálogo, clientes, vendedores y distribuidores. Implementé filtros, reportes, generación de PDF y funciones para compartir por WhatsApp.
+
+`React` `Tailwind CSS` `jsPDF` `html2canvas`
+
+<p align="center">
+  <img src="images/projects/pets-pharma.png" alt="Pets Pharma" width="88">
+</p>
+
+### 04 · Cotizador Grupo Garvo
+
+<sub>APP MÓVIL · COTIZACIONES · CAMPO</sub>
+
+**Qué es.** Aplicación móvil para elaborar cotizaciones en campo.
+
+**Mi aportación.** Participé en el desarrollo de interfaces, pruebas y ajustes a los requerimientos del cliente.
+
+`React Native` `TypeScript`
+
+---
+
+## Contacto
+
+He construido reservas con pagos, programas de lealtad con recompensas y pase digital, cotizadores de campo y sistemas de ventas e inventario. Si tu equipo está contratando o necesita construir una de esas piezas, escríbeme por LinkedIn.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-lezama-z%C3%A1rate-87a76a35b/">
+    <img src="https://img.shields.io/badge/Escr%C3%ADbeme_por_LinkedIn-2A2A2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=E8E8E8" alt="Escríbeme por LinkedIn" />
+  </a>
+</p>
+
+<p align="center">O revisa el código en <a href="https://github.com/Laloaobes?tab=repositories">GitHub</a>.</p>
