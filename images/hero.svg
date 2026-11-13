@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="heroTitle heroDesc">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="heroTitle heroDesc">
   <title id="heroTitle">Eduardo Lezama Zarate — desarrollador de software</title>
   <desc id="heroDesc">Encabezado tipográfico en tonos negros y grises con el nombre Eduardo Lezama Zarate y la leyenda Desarrollador de software.</desc>
 
@@ -39,18 +39,17 @@
     </style>
   </defs>
 
-  <rect width="1000" height="340" fill="url(#bg)"/>
-  <rect width="1000" height="340" fill="url(#grid)"/>
-  <ellipse class="glow" cx="790" cy="70" rx="320" ry="230" fill="url(#glow)"/>
+  <rect width="800" height="340" rx="16" fill="url(#bg)"/>
+  <rect x="16" y="16" width="768" height="308" rx="8" fill="url(#grid)" stroke="#303030"/>
+  <ellipse class="glow" cx="620" cy="70" rx="160" ry="160" fill="url(#glow)"/>
 
-  <text x="64" y="94" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4.5" fill="#8A8A8A">DESARROLLADOR DE SOFTWARE</text>
+  <text x="48" y="76" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2" fill="#B8B8B8">DESARROLLADOR DE SOFTWARE</text>
 
-  <text x="64" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-1.5" fill="#F3F3F3">Eduardo</text>
-  <text x="64" y="254" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-1.5" fill="#F3F3F3">Lezama Zarate</text>
+  <text x="48" y="163" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="600" letter-spacing="-1.5" fill="#F3F3F3">Eduardo</text>
+  <text x="48" y="237" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="600" letter-spacing="-1.5" fill="#F3F3F3">Lezama Zarate</text>
 
-  <text x="944" y="250" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="2" fill="none" stroke="#2E2E2E" stroke-width="1.5" opacity="0.6">ELZ</text>
+  <text x="746" y="285" text-anchor="end" font-family="monospace" font-size="28" letter-spacing="3" fill="#A8A8A8">ELZ / &lt;/&gt;</text>
 
-  <rect class="accent" x="64" y="300" width="72" height="2" fill="#6E6E6E"/>
+  <rect class="accent" x="48" y="280" width="120" height="3" rx="1.5" fill="#B8B8B8"/>
 
-  <line x1="0" y1="339" x2="1000" y2="339" stroke="#1F1F1F" stroke-width="1"/>
 </svg>
