@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Eduardo Lezama Zarate — desarrollador de software</title>
+  <desc id="heroDesc">Encabezado tipográfico en tonos negros y grises con el nombre Eduardo Lezama Zarate y la leyenda Desarrollador de software.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080808"/>
+      <stop offset="0.55" stop-color="#101010"/>
+      <stop offset="1" stop-color="#171717"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.035"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+
+    <style>
+      .glow { animation: drift 18s ease-in-out infinite; }
+      .accent { transform-box: fill-box; transform-origin: left center; animation: breathe 10s ease-in-out infinite; }
+
+      @keyframes drift {
+        0%, 100% { transform: translateX(-28px); }
+        50% { transform: translateX(28px); }
+      }
+
+      @keyframes breathe {
+        0%, 100% { transform: scaleX(0.55); }
+        50% { transform: scaleX(1); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .glow, .accent { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="340" fill="url(#bg)"/>
+  <rect width="1000" height="340" fill="url(#grid)"/>
+  <ellipse class="glow" cx="790" cy="70" rx="320" ry="230" fill="url(#glow)"/>
+
+  <text x="64" y="94" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4.5" fill="#8A8A8A">DESARROLLADOR DE SOFTWARE</text>
+
+  <text x="64" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-1.5" fill="#F3F3F3">Eduardo</text>
+  <text x="64" y="254" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-1.5" fill="#F3F3F3">Lezama Zarate</text>
+
+  <text x="944" y="250" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="2" fill="none" stroke="#2E2E2E" stroke-width="1.5" opacity="0.6">ELZ</text>
+
+  <rect class="accent" x="64" y="300" width="72" height="2" fill="#6E6E6E"/>
+
+  <line x1="0" y1="339" x2="1000" y2="339" stroke="#1F1F1F" stroke-width="1"/>
+</svg>
