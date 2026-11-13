@@ -93,7 +93,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3 align="center">03 · Pets Pharma</h3>
+      <h3 align="center">03 · Cotizador Grupo Garvo</h3>
       <p align="center"><strong>SISTEMA WEB · PEDIDOS · REPORTES</strong></p>
       <p align="center"><img src="images/projects/pets-pharma.png" alt="Pets Pharma" width="120"></p>
       <p align="center"><strong>Qué es.</strong> Sistema web de pedidos y administración para distribución farmacéutica veterinaria. Cubre catálogo, clientes, vendedores y distribuidores.</p>
@@ -103,21 +103,9 @@
   </tr>
 </table>
 
-<p align="center">· &nbsp; · &nbsp; ·</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3 align="center">04 · Cotizador Grupo Garvo</h3>
-      <p align="center"><strong>APP MÓVIL · COTIZACIONES · CAMPO</strong></p>
-      <p align="center"><strong>Qué es.</strong> Aplicación móvil para elaborar cotizaciones en campo.</p>
-      <blockquote><p align="center"><strong>Mi aportación.</strong> Participé en el desarrollo de interfaces, pruebas y ajustes a los requerimientos del cliente.</p></blockquote>
-      <p align="center"><code>React Native</code> <code>TypeScript</code></p>
-    </td>
-  </tr>
-</table>
 
----
+
 
 ## Contacto
 
